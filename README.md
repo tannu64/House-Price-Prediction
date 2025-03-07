@@ -51,6 +51,14 @@ python app.py
 
 Finally, open the ReactJS frontend by navigating to `http://localhost:3000` in your web browser.
 
-## Credits
+## Upwork Job Description (Machine Learning Expert - Find us a model we can train)
+We need an Machine Learning AI expert to help us find a suitable model regarding basic real estate data or sales data in general.
 
-This project was created by [Your Name] as part of a machine learning course. The King County House Sales Dataset was obtained from Kaggle.
+1: Model must support basic property historical sales data (address, date of sale, price)
+2: Must support NLP for more complex data sets such as property description.
+3: Must find a pre trained model on either Hugging Face, Github or Kaggle
+
+
+
+
+
